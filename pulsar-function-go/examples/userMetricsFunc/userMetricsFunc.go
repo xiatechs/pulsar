@@ -23,7 +23,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/apache/pulsar/pulsar-function-go/pf"
+	"github.com/xiatechs/pulsar/pulsar-function-go/pf"
 )
 
 func metricRecorderFunction(ctx context.Context, in []byte) error {

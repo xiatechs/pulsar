@@ -22,10 +22,10 @@ package pf
 import (
 	"testing"
 
-	cfg "github.com/apache/pulsar/pulsar-function-go/conf"
+	cfg "github.com/xiatechs/pulsar/pulsar-function-go/conf"
 
-	pb "github.com/apache/pulsar/pulsar-function-go/pb"
 	"github.com/stretchr/testify/assert"
+	pb "github.com/xiatechs/pulsar/pulsar-function-go/pb"
 )
 
 func Test_newInstanceConf(t *testing.T) {

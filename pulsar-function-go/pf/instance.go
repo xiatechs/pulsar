@@ -31,9 +31,9 @@ import (
 
 	"github.com/apache/pulsar-client-go/pulsar"
 
-	log "github.com/apache/pulsar/pulsar-function-go/logutil"
-	pb "github.com/apache/pulsar/pulsar-function-go/pb"
 	prometheus_client "github.com/prometheus/client_model/go"
+	log "github.com/xiatechs/pulsar/pulsar-function-go/logutil"
+	pb "github.com/xiatechs/pulsar/pulsar-function-go/pb"
 )
 
 type goInstance struct {

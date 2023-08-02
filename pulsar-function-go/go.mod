@@ -1,4 +1,4 @@
-module github.com/apache/pulsar/pulsar-function-go
+module github.com/xiatechs/pulsar/pulsar-function-go
 
 go 1.13
 
@@ -14,10 +14,10 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
-replace github.com/apache/pulsar/pulsar-function-go/pf => ./pf
+replace github.com/xiatechs/pulsar/pulsar-function-go/pf => ./pf
 
-replace github.com/apache/pulsar/pulsar-function-go/logutil => ./logutil
+replace github.com/xiatechs/pulsar/pulsar-function-go/logutil => ./logutil
 
-replace github.com/apache/pulsar/pulsar-function-go/pb => ./pb
+replace github.com/xiatechs/pulsar/pulsar-function-go/pb => ./pb
 
-replace github.com/apache/pulsar/pulsar-function-go/conf => ./conf
+replace github.com/xiatechs/pulsar/pulsar-function-go/conf => ./conf
