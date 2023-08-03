@@ -16,6 +16,7 @@ pulsar-functions/worker/src/test/resources/
 *.log
 *.nar
 .idea
+vendor
 
 *.versionsBackup
 */bin
