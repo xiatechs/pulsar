@@ -24,8 +24,8 @@
 package storage
 
 import (
-	common "bookkeeper/common"
-	stream "bookkeeper/stream"
+	common "github.com/xiatechs/pulsar/pb/bookkeeper/common"
+	stream "github.com/xiatechs/pulsar/pb/bookkeeper/stream"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

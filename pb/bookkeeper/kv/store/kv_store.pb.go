@@ -24,7 +24,7 @@
 package store
 
 import (
-	rpc "bookkeeper/kv/rpc"
+	rpc "github.com/xiatechs/pulsar/pb/bookkeeper/kv/rpc"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
