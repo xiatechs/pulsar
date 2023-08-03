@@ -24,8 +24,8 @@
 package rpc
 
 import (
-	kv "bookkeeper/kv"
-	storage "bookkeeper/storage"
+	kv "github.com/xiatechs/pulsar/pb/bookkeeper/kv"
+	storage "github.com/xiatechs/pulsar/pb/bookkeeper/storage"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -56,6 +56,8 @@ github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d/go.mod h1:rBZYJk5
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/apache/pulsar-client-go v0.8.1 h1:UZINLbH3I5YtNzqkju7g9vrl4CKrEgYSx2rbpvGufrE=
 github.com/apache/pulsar-client-go v0.8.1/go.mod h1:yJNcvn/IurarFDxwmoZvb2Ieylg630ifxeO/iXpk27I=
+github.com/apache/pulsar-client-go v0.11.0 h1:fniyVbewAOcMSMLwxzhdrCFmFTorCW40jfnmQVcsrJw=
+github.com/apache/pulsar-client-go v0.11.0/go.mod h1:FoijqJwgjroSKptIWp1vvK1CXs8dXnQiL8I+MHOri4A=
 github.com/apache/pulsar-client-go/oauth2 v0.0.0-20220120090717-25e59572242e h1:EqiJ0Xil8NmcXyupNqXV9oYDBeWntEIegxLahrTr8DY=
 github.com/apache/pulsar-client-go/oauth2 v0.0.0-20220120090717-25e59572242e/go.mod h1:Xee4tgYLFpYcPMcTfBYWE1uKRzeciodGTSEDMzsR6i8=
 github.com/ardielle/ardielle-go v1.5.2 h1:TilHTpHIQJ27R1Tl/iITBzMwiUGSlVfiVhwDNGM3Zj4=
